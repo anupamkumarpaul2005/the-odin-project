@@ -1,0 +1,16 @@
+body {
+    background-color: blanchedalmond;
+}
+
+header {
+    text-align: center;
+}
+
+.subheading {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.picture {
+    height: auto; 
+    width: 250px;
+}
